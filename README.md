@@ -1,2 +1,2 @@
-# URL_generator
+# URL_Generator
 fun twist on a random url
