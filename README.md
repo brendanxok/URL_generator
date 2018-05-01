@@ -4,7 +4,8 @@ To make this, I found three .txt documents with lists of: names, adjectives, and
 
 The format follows this structure Name"The"AdjectiveAnimal which I think is better than the Gyfcat one which is AdjectiveAdjectiveAnimal. There are 3115 names, 668 adjectives and 206 animals, so there are 428,648,920 different combinations of URLs.
 
-Examples: nnn.com/JackyTheOddBear
+Examples: 
+          nnn.com/JackyTheOddBear
 
           nnn.com/AubrieTheDarkSnake
           
