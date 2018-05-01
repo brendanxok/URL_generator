@@ -6,8 +6,8 @@ The format follows this structure Name"The"AdjectiveAnimal which I think is bett
 
 Examples: 
           
-          website.com/JackyTheOddBear
+          website.com/pic/JackyTheOddBear
 
-          website.com/AubrieTheDarkSnake
+          website.com/vid/AubrieTheDarkSnake
           
-          website.com/EmmeyTheFullInsect
+          website.com/gif/EmmeyTheFullInsect
